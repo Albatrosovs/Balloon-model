@@ -4,3 +4,7 @@
 
 # Математическая модель
 ![](https://github.com/Albatrosovs/Balloon-model/blob/main/Matmodel.png)
+
+# Демонстрация работы
+
+Демонстрацию можно посмотреть здесь: 
